@@ -35,7 +35,7 @@
         -->
         <advance><![CDATA[{
                     "com.abcxyz.app1": { "enable":1, "embed":4, "width":350, "height":96, "delay":1, "offsetx":0, "offsety":3 },
-                    "com.abcxyz.app2": { "enable":0 }
+                    "com.hnbsoft.word": { "enable":1 }
             }]]></advance>
         
         <!-- 广告窗口的标题，支持多语言。 -->
@@ -241,7 +241,7 @@
                     </td>
                     <td class="slideshow_item_texts_td">
                         <div class="slideshow_item_texts_box">
-                            <a href="https://itunes.apple.com/us/app/new-paint-x/id1292283076?ls=1&mt=12"><p class="texts_title">New Paint X(HNB)<span class="s_price">Free</span></p></a>
+                            <a href="https://itunes.apple.com/us/app/new-paint-x/id1292283076?ls=1&mt=12"><p class="texts_title">New Paint X(HNB233)<span class="s_price">Free</span></p></a>
                             <p class="texts_subtitle">All-new designed Mac painting app</p>
                             <a class="slideshow_item_download" href="https://itunes.apple.com/us/app/new-paint-x/id1292283076?ls=1&mt=12"><img id="image_down_mas" src="#" alt="Download on the Mac App Store"></a>
                         </div>
